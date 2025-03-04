@@ -12,7 +12,7 @@ Após a guarda dos arquivos o sistema Arquivei disponbiliza no mesmo momento par
 
 Segue fluxo abaixo:
 
-<img src= imagens\img2.jpg>
+<img src= api\imagens\img2.jpg>
 
 
 
@@ -21,6 +21,6 @@ Segue fluxo abaixo:
 ---
 ### <b>Processo utilizado pelo usuário da área Fiscal
 
-<img src= imagens\img1.jpg>
+<img src= api\imagens\img1.jpg>
 
 esse é um exemplo de manual feito em Markdown!!!
